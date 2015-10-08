@@ -12,6 +12,7 @@ namespace prj1
         static void Main(string[] args)
         {
             Debug.WriteLine("WorkComputer");
+            Debug.WriteLine("Privat, Konflikt kod");
         }
     }
 }
