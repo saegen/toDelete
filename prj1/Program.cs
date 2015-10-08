@@ -13,6 +13,8 @@ namespace prj1
         {
             Debug.WriteLine("WorkComputer");
             Debug.WriteLine("Privat, Konflikt kod");
+            Debug.WriteLine("WorkComputer: LokalCommit, SolutionLevel");
+
         }
     }
 }
